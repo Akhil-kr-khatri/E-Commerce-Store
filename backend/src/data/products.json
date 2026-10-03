@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Bluetooth Speaker",
+    "description": "Portable wireless speaker with powerful sound and deep bass.",
+    "price": 2499,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "stock": 25,
+    "is_featured": true
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard for gaming and productivity.",
+    "price": 3499,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600",
+    "stock": 15,
+    "is_featured": false
+  },
+  {
+    "id": 3,
+    "name": "Classic Wrist Watch",
+    "description": "Elegant wrist watch suitable for everyday use.",
+    "price": 1999,
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "stock": 30,
+    "is_featured": true
+  },
+  {
+    "id": 4,
+    "name": "Running Sneakers",
+    "description": "Comfortable sneakers for everyday running and exercise.",
+    "price": 2999,
+    "category": "Fashion",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "stock": 20,
+    "is_featured": false
+  },
+  {
+    "id": 5,
+    "name": "Travel Backpack",
+    "description": "Spacious backpack suitable for travel and office.",
+    "price": 1499,
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "stock": 18,
+    "is_featured": true
+  },
+  {
+    "id": 6,
+    "name": "Wireless Headphones",
+    "description": "Over-ear wireless headphones with premium audio.",
+    "price": 2499,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "stock": 12,
+    "is_featured": false
+  },
+  {
+    "id": 7,
+    "name": "Smart Watch",
+    "description": "Modern smartwatch with fitness tracking features.",
+    "price": 3999,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600",
+    "stock": 10,
+    "is_featured": false
+  },
+  {
+    "id": 8,
+    "name": "Casual Sneakers",
+    "description": "Stylish everyday sneakers with comfortable cushioning.",
+    "price": 1899,
+    "category": "Fashion",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "stock": 22,
+    "is_featured": false
+  }
+]
